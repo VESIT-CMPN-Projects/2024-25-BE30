@@ -1,0 +1,1458 @@
+{
+  "plants": [
+    {
+      "id":"Aloevera",
+  "scientific_name": "Aloe barbadensis Mill.",
+  "general_information": {
+    "name_origin": "Derives its name 'Aloe vera' from the Arabic word 'Alloeh', meaning shining bitter substance.",
+    "description": "The inner part of the leaf, containing gel and latex, is used for preparing various medicines. Aloe vera is rich in vitamins A, B1, B2, B6, B12, folic acid, and niacin.",
+    "uses": "Medicines prepared from Aloe vera are used for burns, sunburn, and various skin diseases like eczema, pruritus, psoriasis, and acne.",
+    "plant_characteristics": {
+      "plant_type": "Stemless plant with thick, fleshy leaves.",
+      "height": {
+        "average": "24-39 cm",
+        "leaf_height": "0.5 m"
+      },
+      "distribution": {
+        "global": [
+          "India",
+          "Australia",
+          "USA",
+          "Japan",
+          "Europe"
+        ],
+        "india": [
+          "Punjab",
+          "Andhra Pradesh",
+          "Arunachal Pradesh",
+          "Assam",
+          "Gujarat",
+          "Haryana",
+          "Jharkhand",
+          "Kerala",
+          "Madhya Pradesh",
+          "Maharashtra",
+          "Manipur",
+          "Mizoram",
+          "Nagaland",
+          "Orissa",
+          "Rajasthan",
+          "Uttaranchal"
+        ]
+      }
+    }
+  },
+  "climate": {
+    "temperature": {
+      "range": "25-40°C",
+      "sowing_temperature": "30-35°C",
+      "harvesting_temperature": "25-35°C"
+    },
+    "rainfall": "35-40 cm"
+  },
+  "soil": {
+    "type": "Grows in a variety of soils ranging from sandy coastal soils to loamy soils of plains.",
+    "pH": "Up to 8.5",
+    "limitations": "Cannot withstand waterlogging conditions.",
+    "best_conditions": "Well-drained loam to coarse sandy loam."
+  },
+  "varieties": {
+    "total_species": "Around 150 species of Aloe belong to the family Liliaceae.",
+    "popular_varieties": [
+      "Aloe barbedensis",
+      "A. chinensis",
+      "A. perfoliata",
+      "A. vulgaris",
+      "A. indica",
+      "A. littoralis",
+      "A. abyssinica"
+    ],
+    "specific_varieties": [
+      {
+        "names": [
+          "IC111271",
+          "IC111269",
+          "IC111280",
+          "IC111273",
+          "IC111279",
+          "IC111267"
+        ],
+        "released_by": "National Botanical and Plant Genetic Resource, ICAR, Delhi",
+        "description": "Has high aloin content."
+      },
+      {
+        "names": [
+          "IC111267",
+          "IC1112666",
+          "IC111280",
+          "IC111272",
+          "IC111277"
+        ],
+        "released_by": "National Botanical and Plant Genetic Resource, ICAR, Delhi",
+        "description": "Contains high gel content."
+      },
+      {
+        "name": "AL-1",
+        "released_by": "Central Institute of Medicinal and Aromatic Plants, Lucknow"
+      }
+    ]
+  },
+  "land_preparation": {
+    "ploughing_depth": "20-30 cm (depending on soil type)",
+    "fertilizer": "6 tons per acre of well-decomposed cow dung added during the last ploughing.",
+    "planting_ridges": "Form ridges and furrows for planting suckers at 45 or 60 cm apart."
+  },
+  "sowing": {
+    "time_of_sowing": "Plant suckers in July-August for better growth. Under irrigated conditions, sowing can be done year-round except in winter.",
+    "spacing": "45 cm x 40 cm or 60 cm x 30 cm",
+    "sowing_depth": "Plant three to four-month-old suckers in a 15 cm deep pit.",
+    "method": "Suckers are planted. Aloe vera is obtained by cutting the leaves at their base and letting the yellow, bitter juice drain out."
+  },
+  "seed": {
+    "seed_rate": "Around 22,000 suckers per acre",
+    "seed_treatment": "Use healthy suckers for cultivation. 3-4 months old suckers with 4-5 leaves are used as planting materials."
+  },
+  "fertilizer": {
+    "requirement_kg_per_acre": {
+      "urea": 44,
+      "ssp": 125,
+      "muriate_of_potash": 34
+    },
+    "nutrients_kg_per_acre": {
+      "nitrogen": 20,
+      "phosphorus": 20,
+      "potash": 20
+    },
+    "organic_fertilizer": "60-80 qtl per acre of well-decomposed cow dung"
+  },
+  "weed_control": {
+    "method": "Do weeding and earthing up at proper intervals, mainly twice a year, to keep the field weed-free."
+  },
+  "irrigation": {
+    "summer": "Apply irrigation every two weeks.",
+    "rainy_season": "Does not require irrigation.",
+    "winter": "Apply minimal irrigation, as plants do not uptake much water.",
+    "first_irrigation": "Immediately after suckers are planted.",
+    "guideline": "Avoid overwatering; allow the field to dry before re-watering."
+  },
+  "plant_protection": {
+    "pests": [
+      {
+        "name": "Mealy Bug",
+        "cause": "Lepidocephalus and Pseudococcus",
+        "symptoms": "Leaves start yellowing and withering.",
+        "treatment": "Apply Methyl Parathion@10 ml or Quinalphos@20 ml in 10 L of water on roots and shoots."
+      }
+    ],
+    "diseases": [
+      {
+        "name": "Black Brown Leaf Spots",
+        "symptoms": "Reddish-brown spores that occur in oval or elongated pustules. Develops rapidly in moisture at 20°C.",
+        "control": "Successive generations of urediniospores can be produced every 10-14 days if conditions are favorable."
+      },
+      {
+        "name": "Anthracnose",
+        "symptoms": "Causes diseases such as dieback, twig cankers, blotches, defoliation, and shoot blight.",
+        "control": "Spraying of 70% Neem oil helps to control the disease."
+      }
+    ]
+  },
+  "harvesting": {
+    "maturity_period": "18-24 months",
+    "flower": "Bears yellow flowers after one year.",
+    "harvest_frequency": "4 times a year",
+    "method": "3-4 leaves are cut from each plant. Picking is done in the morning or evening. The leaves regenerate, allowing the crop to be harvested for up to 5 years."
+  },
+  "post_harvest": {
+    "wilting": "Allow freshly harvested plants to wilt and lose moisture in the field for 24-72 hours before transportation.",
+    "storage": "Keep plants dry and cool to prevent fermentation or mold growth. Use a concrete floor under shade for storage."
+  }
+},
+{   
+  "id":"Amla",
+  "Name": "Emblica officinalis Gaertn.",
+  "General Information": {
+    "Synonym": "Phyllanthus emblica Linn.",
+    "Family": "Euphorbiaceae",
+    "Habitat": "Native to tropical Southeast Asia; distributed throughout India; also planted in public parks.",
+    "Common Names": {
+      "English": "Emblic, Indian gooseberry",
+      "Ayurvedic": "Aaamalaki, Aaamalaka, Dhaatri, Kaayasthaa, Amoghaa, Amritaphala, Amla, Aaamalaa, Dhaatriphala, Vayasyaa, Vrshya, Shiva, Hattha",
+      "Unani": "Aamalaa, Amlaj",
+      "Siddha/Tamil": "Nellikkaai, Nelli"
+    },
+    "Action": "Fruit—antianaemic, anabolic, antiemetic, bechic, astringent, antihaemorrhagic, antidiarrhoeal, diuretic, antidiabetic, carminative, antioxidant. Used in jaundice, dyspepsia, bacillary dysentery, eye trouble and as a gastrointestinal tonic. Juice with turmeric powder and honey is prescribed in diabetes insipidus. Seed—antibilious, antiasthmatic. Used in bronchitis. Bark—astringent. Leaf—juice is given in vomiting.",
+    "Medicinal Properties": {
+      "Key Application": "As an antacid.",
+      "Vitamin C Content": "The fruit is an important source of vitamin C, minerals, and amino acids.",
+      "Fruit": "Contains cytokinine-like substances, zeatin, zeatin riboside, and zeatin nucleotide. Exhibits CNS depressant and spasmolytic activity.",
+      "Leaves": "Contain gallic acid and ascorbic acid. Effective in rat paw inflammation.",
+      "Bark": "Contains tannin, identified as mixed proanthocyanidin.",
+      "Antioxidant": "The fruit, juice, its sediment, and residue are antioxidant due to gallic acid.",
+      "Research Studies": [
+        "May lower serum cholesterol, LDL, triglycerides, and phospholipids without affecting HDL levels.",
+        "Reported to provide protection against radiation-induced chromosomal damage.",
+        "Enhances natural killer cell activity and antibody-dependent cellular cytotoxicity in mice.",
+        "Prevents hepatotoxic and nephrotoxic effects induced by lead and aluminum."
+      ]
+    },
+    "Dosage": "Fresh fruit—10–20 g; pulp juice—5–10 ml.",
+    "Description": "Amla is commonly known as Indian gooseberry or Nelli. It is a branching tree with an average height of 8-18 m. Flowers are greenish-yellow. Fruits are pale-yellow, 1.3-1.6 cm in diameter."
+  },
+  "Climate": {
+    "Temperature": {
+      "Max": "46-48°C",
+      "Sowing": "22-30°C",
+      "Harvesting": "8-15°C"
+    },
+    "Rainfall": "630-800 mm"
+  },
+  "Soil": {
+    "Description": "Grown in a variety of soils, including slightly acidic to saline soils. Best results in fertile-loamy soil with good drainage. Requires pH of 6.5-9.5. Avoid heavy soils."
+  },
+  "Popular Varieties With Their Yield": [
+    {
+      "Name": "Banarasi",
+      "Maturity": "Mid-October to mid-November",
+      "Fruit Weight": "48g",
+      "Fiber Content": "1.4%",
+      "Yield": "120 kg/tree"
+    },
+    {
+      "Name": "Krishna",
+      "Maturity": "Mid-October to mid-November",
+      "Fruit Weight": "44.6g",
+      "Fiber Content": "1.4%",
+      "Yield": "123 kg/tree"
+    },
+    {
+      "Name": "NA-9",
+      "Maturity": "Mid-October to mid-November",
+      "Fruit Weight": "50.3g",
+      "Fiber Content": "0.9%",
+      "Ascorbic Content": "100g"
+    },
+    {
+      "Name": "NA-10",
+      "Maturity": "Mid-October to mid-November",
+      "Fruit Weight": "41.5g",
+      "Fiber Content": "1.5%"
+    },
+    {
+      "Name": "Francis",
+      "Maturity": "Mid-November to mid-December",
+      "Fruit Weight": "45.8g",
+      "Fiber Content": "1.5%"
+    }
+  ],
+  "Land Preparation": {
+    "Description": "The soil is ploughed and organic fertilizers like FYM are mixed in. Nursery beds are prepared, 2.5cm deep and 15cm x 15cm in size."
+  },
+  "Sowing": {
+    "Time": {
+      "General": "July-September",
+      "Udaipur": "January-February"
+    },
+    "Spacing": "4.5m x 4.5m",
+    "Sowing Depth": "1 meter square pits dug and left for 15-20 days for sun exposure.",
+    "Method": "Transplanting of budded seedlings."
+  },
+  "Seed": {
+    "Seed Rate": "200gm/acre",
+    "Seed Treatment": "Treated with Gibberellic acid @200-500ppm and air-dried."
+  },
+  "Fertilizer": {
+    "Nutrient Requirement (gm/plant)": {
+      "NITROGEN": "100",
+      "PHOSPHORUS": "50",
+      "POTASH": "100"
+    },
+    "Application": "Fertilizer dose increased yearly. Full phosphorus and half nitrogen and potassium in January-February. Remaining half dose in August."
+  },
+  "Weed Control": {
+    "Description": "Frequent weeding is required. Mulching in summer is effective for weed control."
+  },
+  "Irrigation": {
+    "Summer": "Apply irrigation every 15 days.",
+    "Winter": "Water via drips @25-30 litres/day/tree.",
+    "Monsoon": "No irrigation needed. Avoid during flowering."
+  },
+  "Plant Protection": {
+    "Pests": {
+      "Bark Eating Caterpillar": "Apply quinalphos @0.01% or fenvalerate @0.05% in holes.",
+      "Gall Caterpillar": "Apply Dimethoate @0.03%."
+    },
+    "Diseases": {
+      "Rust": "Apply Indofil M-45 @0.3%, twice in September.",
+      "Internal Necrosis": "Caused by boron deficiency. Apply boron @0.6% in September-October.",
+      "Fruit Rot": "Apply borax or NaCl @0.1%-0.5%."
+    }
+  },
+  "Harvesting": {
+    "Time": "7-8 years after planting, February when fruits are green. Harvesting by shaking the tree.",
+    "Post-Harvest": "Grading and packing done after harvesting. Amla products like powders, churna, and sweet preserves are made."
+  }
+},
+{
+  "id":"Amruta_Balli",
+  "General Information": {
+    "Scientific Name": "Tinospora cordifolia (Willd.) Miers ex Hook. f. & Thoms.",
+    "Family": "Menispermaceae",
+    "Habitat": "Tropical India and the Andamans",
+    "Common Names": {
+      "Ayurvedic": ["Guduuchi", "Guduuchikaa", "Guluuchi", "Amrita", "Amritaa", "Amritalataa", "Amritavalli", "Chinnaruuhaa", "Chinnodbhavaa", "Madhuparni", "Vatsaadani", "Tantrikaa", "Kundalini", "Guduuchi Sattva (starch)"],
+      "Unani": ["Gilo", "Gulanchaa", "Sat-e-Gilo (starch)"],
+      "Siddha/Tamil": ["Seenil", "Amrida-valli"],
+      "Folk": "Giloya"
+    },
+    "Action": {
+      "Herb": "Antipyretic, antiperiodic, anti-inflammatory, antirheumatic, spasmolytic, hypoglycaemic, hepatoprotective",
+      "Water Extract": "Increases urine output",
+      "Stem Juice": "Prescribed in high fever",
+      "Decoction": "Used in rheumatic and bilious fevers",
+      "Aqueous Extract": "Fabrifuge (fever reducer)",
+      "Starch": "Antacid, antidiarrhoeal, and antidysenteric"
+    },
+    "Medicinal Properties": {
+      "Ayurvedic Pharmacopoeia": "Recommends dried stems for jaundice, anaemia, polyuria, and skin diseases",
+      "Active Compounds": {
+        "Alkaloids": ["Berberine"],
+        "Bitter Principles": ["Columbin", "Chasmanthin", "Palmarin", "Tinosporon", "Tinosporic Acid", "Tinosporol"]
+      },
+      "Analgesic Effect": "Possesses one-fifth of the analgesic effect of sodium salicylate",
+      "Phagocytic Index": "Aqueous extract shows high phagocytic index",
+      "Antibacterial Activity": "Alcoholic extract of the stem shows activity against E. coli",
+      "Antituberculosis": "Active principles inhibit the growth of Mycobacterium tuberculosis in vitro",
+      "Hypoglycaemic Activity": "Oral administration of alcoholic extract of the root reduces blood and urine glucose, and lipids in serum and tissues of alloxan diabetic rats",
+      "Hepatoprotective": "Significant reduction in SGOT, SGPT, ALP, and bilirubin levels during CCl₄ intoxication in rats",
+      "Antiviral Activity": "Plant extract shows in vitro inactivating activity against Hepatitis-B surface antigen"
+    },
+    "Dosage": {
+      "Stem Powder": "3–6 g",
+      "Decoction": "20–30 g"
+    }
+  },
+  "Chemical Constituents": {
+    "New Hypoglycaemic Agent": "1,2-substituted pyrrolidine",
+    "Starch from Roots and Stem": "Used in chronic diarrhoea and dysentery; contains a polysaccharide with 1–4 glucan and occasional branching points"
+  },
+  "Research Studies": {
+    "Hypoglycaemic Effect": {
+      "Reference": "Phytother Res. 2003, 17 (4), 410–3",
+      "Findings": "Significant reduction in blood and urine glucose levels, as well as lipids in serum and tissues of alloxan diabetic rats"
+    },
+    "Hepatoprotective Effect": {
+      "Reference": "J. Toxicol Sci. 2002, 27 (3), 139–46",
+      "Findings": "Significant reduction in SGOT, SGPT, ALP, and bilirubin during CCl₄ intoxication in rats"
+    },
+    "Antiviral Activity": {
+      "Reference": "Indian Drugs, 1993, 30, 549",
+      "Findings": "Plant extract showed in vitro inactivating activity in Hepatitis-B surface antigen"
+    }
+  }
+},
+
+{
+  "id":"Ashoka",
+  "General Information": {
+    "Name": "Saraca asoca (Roxb.) De Wilde.",
+    "Synonym": "S. indica auct. non L.",
+    "Family": "Caesalpiniaceae",
+    "Habitat": "Throughout India, except Northwestern India, up to 750 m.",
+    "Common Names": {
+      "English": "Ashoka tree",
+      "Ayurvedic": "Ashoka, Ashoku, Hempushpa, Taamrapallava, Pindapushpa, Gandhapushpa",
+      "Unani": "Ashoka",
+      "Siddha/Tamil": "Asogam"
+    },
+    "Action": "Bark—uterine tonic, used for menstrual disorders (menorrhagia, metrorrhagia), leucorrhoea, menopause complaints, and uterine issues. Flowers—used in haemorrhagic dysentery, bleeding piles, and retention of urine.",
+    "Medicinal Properties": {
+      "Key Application": "Bark in menstrual irregularities (menorrhagia, metrorrhagia) and as a uterine tonic.",
+      "Active Compounds": {
+        "Flowers": "Contain fatty acids, gallic acid, cyanidin-3,5-diglucoside, quercetin, and sitosterol.",
+        "Bark": "Yields tannins, catechin, leucopelargonidin, procyanidin derivatives, quercetin, kaempferol, beta-sitosterol.",
+        "Leaves & Stems": "Contain quercetin, kaempferol-3-O-rhamnoside, amyrin, beta-sitosterol."
+      },
+      "Research Studies": [
+        "Bark extracts show oxytocic activity similar to pitocin and ergometrine.",
+        "Alcoholic extract of the bark is active against a wide range of bacteria.",
+        "Aqueous extract enhances life span in mice infected with Ehrlich ascites carcinoma by 24%."
+      ]
+    },
+    "Dosage": "Dried stem bark—20–30 g for decoction (API, Vol. I)."
+  },
+  "Morphological Characteristics": {
+    "Tree": "Medium-sized evergreen tree with fragrant orange to orange-yellow flowers.",
+    "Leaves": "Alternate, paripinnate, 30-60 cm long, copper red when young, green when mature.",
+    "Bark": "Dark green, often marked with bluish and ash-white patches of lichens.",
+    "Fruit": "Four to eight-seeded, flat, black, leathery pod. Dehiscent, woody, and tapering at both ends.",
+    "Seeds": "Ellipsoid-oblong, compressed."
+  },
+  "Floral Characteristics": {
+    "Flowering & Fruiting": "Flowers from July to October; fragrant, orange or orange-yellow in color."
+  },
+  "Distribution": {
+    "Geographic Range": "Occurs throughout India, especially in South India, Sri Lanka, Orissa, and Assam; also found in the central and eastern Himalayas up to 750 m altitude."
+  },
+  "Climate and Soil": {
+    "Description": "Grows best in moist tropical areas with well-distributed rainfall. Thrives well in partially shaded locations."
+  },
+  "Propagation Material": {
+    "Seeds": "The best method of propagation is via seeds collected from 5-6-year-old plants in December-January."
+  },
+  "Agro-technique": {
+    "Nursery Technique": {
+      "Raising Propagules": "Seeds are sown in mother beds or polybags (25 cm × 20 cm) in March using a potting mix of soil, sand, and farmyard manure (FYM) in equal parts. Germination occurs in 15 days."
+    },
+    "Planting in the Field": {
+      "Land Preparation": "Pits (45 cm × 45 cm × 45 cm) are prepared at 3 m × 3 m spacing, filled with topsoil mixed with 10 kg of FYM.",
+      "Transplanting": "Two-month-old seedlings are transplanted during the monsoon season in June/July. Approximately 1100 seedlings are required per hectare."
+    },
+    "Intercropping": "Saraca performs well as a mixed crop with trees like coconut, providing partial shade. Herbs and medicinal plants can be intercropped for early economic returns."
+  },
+  "Fertilizer": {
+    "Description": "FYM at 10 kg/tree/year applied twice: once in May–June and again in October–November during weeding."
+  },
+  "Weed Control": {
+    "Description": "Weeding is done manually or by spraying non-selective herbicides such as paraquat (0.8%) or glyphosate (0.4%) at intervals."
+  },
+  "Irrigation": {
+    "Description": "Raised over high rainfall regions, frequent irrigation is needed during dry months. Water is provided via a ring channel around the base of trees."
+  },
+  "Pest and Disease Control": {
+    "Description": "No serious pests or diseases are reported in this crop."
+  },
+  "Harvest Management": {
+    "Crop Maturity": "The tree flowers profusely at 6-8 years of age, with fruiting occurring from July to October. The tree is harvested after 20 years for bark collection, though coppicing allows bark to regenerate.",
+    "Harvesting": "Bark is peeled in vertical strips with 6 cm gaps to allow regeneration, following non-destructive methods.",
+    "Post-Harvest Management": "Bark is dried in the shade, packed, and stored in containers."
+  },
+  "Chemical Constituents": {
+    "Bark": "Contains tannins (0.57%-7.85%), ash (2.43%-6.69%), and other extracts (5.74%-14.07%). Quality variations depend on factors such as plant age."
+  },
+  "Yield": {
+    "Pure Crop": "1 tonne of dry stem bark per hectare.",
+    "Mixed Crop": "0.6 tonnes per hectare when intercropped with coconut."
+  }
+},
+
+{
+  "id":"Bamboo",
+  "General Information": {
+    "Name": "Arundo donax Linn.",
+    "Family": "Gramineae; Poaceae",
+    "Habitat": "Native to the Mediterranean region; found in Kashmir, Assam, and the Nilgiris, also grown in hedges.",
+    "Common Names": {
+      "English": "Great Reed, Spanish Bamboo Reed, Giant Bamboo Reed",
+      "Ayurvedic": "Nala, Potgala, Shuunyamadhya, Dhamana",
+      "Siddha/Tamil": "Korukkai"
+    },
+    "Action": "Rhizome—sudorific, emollient, diuretic, antilactant, antidropsical; uterine stimulant (stimulates menstrual discharge), hypotensive.",
+    "Description": "Arundo donax, commonly known as Giant Reed or Spanish Bamboo, is a tall perennial grass species that grows in moist environments, especially along riverbanks and wetlands."
+  },
+  "Chemical Constituents": {
+    "Rhizome": "Yields indole-3-alkylamine bases, including bufotenidine and dehydro-bufotenine.",
+    "Leaves": "Yield sterols and triterpenoids.",
+    "Bufotenidine": {
+      "Properties": [
+        "Possesses anti-acetylcholine properties",
+        "Histamine release activity",
+        "Uterine stimulant"
+      ]
+    },
+    "Flowers": "Alkaloids from the flowers produced a curarimetic effect of the non-polarizing type."
+  },
+  "Dosage": {
+    "Root Decoction": "50-100 ml (CCRAS)"
+  },
+  "Uses": {
+    "Rhizome": [
+      "Sudorific (induces sweating)",
+      "Emollient (softens and soothes the skin)",
+      "Diuretic (promotes urine production)",
+      "Antilactant (reduces milk secretion)",
+      "Antidropsical (treats dropsy)",
+      "Uterine stimulant (induces menstrual discharge)",
+      "Hypotensive (lowers blood pressure)"
+    ]
+  }
+},
+{
+  "id":"Betel",
+  "General Information": {
+    "Name": "Areca catechu Linn.",
+    "Family": "Palmae; Arecaceae",
+    "Habitat": "Native to Malaysia; now grown along the coasts of Karnataka, Kerala, Tamil Nadu, West Bengal, Assam, and Maharashtra.",
+    "Common Names": {
+      "English": "Arecanut, Betel Nut",
+      "Ayurvedic": "Puuga, Puugi, Kramuka, Ghontaa, Guwaak, Ghorant",
+      "Unani": "Fufal, Chhaalia, Supaari",
+      "Siddha/Tamil": "Kottai Paakku, Kamugu"
+    },
+    "Action": "Taeniacide (confined to veterinary medicine), astringent, stimulant.",
+    "Medicinal Properties": {
+      "Therapeutic Application": "The Ayurvedic Pharmacopoeia of India indicates the use of dried ripe seed in leucorrhoea and vaginal laxity.",
+      "Alkaloids": "Contains several alkaloids belonging to the pyridine group, the most important being arecoline (0.1–0.5%). Arecaidine, guvacine, and isoguvacine are also present.",
+      "Arecoline": "Anthelmintic (in animals, not in humans). Produces bronchoconstriction and hypotension.",
+      "Arecaidine": "Stimulating properties; sedative in higher doses.",
+      "Isoguvacine": "Produces hypotension.",
+      "Tannins": "Arecanut tannins (8.0–18.0%) resemble Mimosa bark tannins and show astringent properties. Prescribed in diarrhoea and urinary disorders. Aqueous extract exhibits direct vasoconstriction.",
+      "Research Studies": [
+        "Antimicrobial activity due to polyphenolic fraction.",
+        "Tannins potentiate the action of acetylcholine in the ileum and uterus of rats.",
+        "Increased risk of oral cancer associated with betel chewing."
+      ],
+      "Toxicity": "Seeds are toxic at 8–10g. Arecoline hydrobromide is toxic at 4.3–6.5mg."
+    },
+    "Contraindications": "Contraindicated in asthma due to bronchoconstrictive effects of arecoline (human case reports).",
+    "Dosage": "Dried ripe fruit—1–2g powder. (API Vol. I)."
+  },
+  "Soil and Climate": {
+    "Soil": "Well-drained fertile clay loams are suitable. Does not tolerate saline and alkaline conditions.",
+    "Climate": "Requires a cool, humid environment with regular moisture in the soil. Ideal for regions with considerable humidity."
+  },
+  "Seeds and Sowing": {
+    "Propagation": "Vines are propagated by terminal stem cuttings or setts 30-45 cm long.",
+    "Seed Rate": "Approximately 100,000 setts are required for planting one hectare.",
+    "Setts": "Setts with vigorous apical buds and nodal adventitious roots are selected and planted at the base of live supports."
+  },
+  "Spacing": {
+    "Single Vine": {
+      "Row Spacing": "20 cm",
+      "Vines/Hectare": "50,000"
+    },
+    "Double Vine": {
+      "Row Spacing": "20 cm",
+      "Vines/Hectare": "100,000"
+    },
+    "Other Spacing Options": {
+      "30 cm": {
+        "Single Vine": "30,000 vines/hectare",
+        "Double Vine": "60,000 vines/hectare"
+      },
+      "45 cm": {
+        "Single Vine": "22,500 vines/hectare",
+        "Double Vine": "45,000 vines/hectare"
+      }
+    },
+    "Planting Season": "November-December and January-February are the optimum times for planting."
+  },
+  "Land Preparation": {
+    "Description": "The field is prepared to a fine tilth, and beds of 2 meters wide are formed with drainage trenches 0.5 meters deep between them. Live supports (Agathi plants) are planted 4 to 5 months earlier. About 750 banana suckers are planted at the edges of the beds."
+  },
+  "Irrigation": {
+    "Initial": "Irrigate the field immediately after planting.",
+    "Regular": "Irrigation should be done once a week."
+  },
+  "After Cultivation": {
+    "Training of Live Standards": "Side branches of Agathi trees up to a height of 2 meters are removed for early creeping of the vines.",
+    "Training of Vines": "Vines are trained by fixing them at intervals of 15 to 20 cm along the supports, tied loosely with banana fiber. Training is done every 15 to 20 days."
+  },
+  "Lowering of Vines": {
+    "Description": "After one year, when vines reach a height of 3 meters, their vigor to produce normal-sized leaves is reduced. They are rejuvenated by lowering them in March-April. This process encourages primary vines to sprout."
+  },
+  "Manuring": {
+    "Nutrient Requirement (kg/ha/year)": {
+      "Nitrogen": "150",
+      "Phosphorus": "100",
+      "Potash": "50"
+    },
+    "Application": {
+      "Basal": {
+        "Nitrogen": "37.5 kg/ha",
+        "Phosphorus": "100 kg/ha",
+        "Potash": "50 kg/ha"
+      },
+      "Top Dressing": "Apply in 3 split doses, 112.5 kg/ha nitrogen at 15-day intervals."
+    }
+  },
+  "Plant Protection": {
+    "Pests": {
+      "Scale Insects": "Spray Chlorpyriphos 20 EC at 2 ml/lit. NSKE 5% or Malathion 50 EC 1 ml/lit can also be used.",
+      "Mites": "Spray Wettable sulfur 50 WP at 1 g/lit or Dicofol 18.5 EC 0.5 ml/lit."
+    },
+    "Diseases": {
+      "Phytophthora Wilt": "Manage with Streptocycline 500 ppm or Bordeaux mixture 0.5%. Drench Bordeaux mixture 0.25% in basins monthly from October to January.",
+      "Powdery Mildew": "Controlled by spraying Wettable sulfur 0.2% after plucking leaves."
+    }
+  },
+  "Harvesting": {
+    "Description": "Harvesting starts when the vines reach maturity, based on growth and market conditions. After harvesting, the process continues almost every day."
+  },
+  "Yield": {
+    "Leaves": "Approximately 75 to 100 lakh leaves per hectare per year."
+  }
+},
+{
+  "id":"Brahmi",
+  "plant_name": "Bacopa monnieri (Linn.) Penn.",
+  "synonyms": [
+    "Herpestis monnieria (Linn.) H. B. & K.",
+    "Moniera cuneifolia Michx."
+  ],
+  "family": "Scrophulariaceae",
+  "habitat": "Throughout the plains of India in damp marshy areas.",
+  "common_names": {
+    "english": "Thyme-leaved Gratiola",
+    "ayurvedic": "Braahmi, Aindri, Nirbraahmi, Kapotavankaa, Bhaarati, Darduradalaa, Matsyaakshaka, Shaaluraparni, Mandukaparni (also equated with Centella asiatica Linn., synonym Hydrocotyle asiatica Linn., Umbelliferae, Apiaceae)",
+    "unani": "Brahmi",
+    "siddha_tamil": "Piramivazhukkai, Neerbrami",
+    "folk": "Jalaneem, Safed-Chammi"
+  },
+  "actions": {
+    "therapeutic": [
+      "Adaptogenic",
+      "Astringent",
+      "Diuretic",
+      "Sedative",
+      "Nervine tonic",
+      "Anti-anxiety",
+      "Antispasmodic (used in bronchitis, asthma, and diarrhoea)"
+    ]
+  },
+  "key_applications": "Psychic disorders and as a brain tonic. (The Ayurvedic Pharmacopoeia of India; Indian Herbal Pharmacopoeia.)",
+  "phytochemistry": {
+    "alkaloids": [
+      "Brahmine (highly toxic, resembles strychnine)",
+      "Herpestine"
+    ],
+    "saponins": [
+      "Monnierin",
+      "Hersaponin",
+      "Bacosides A and B (possess haemolytic activity)"
+    ]
+  },
+  "pharmacology": {
+    "effects": [
+      "Prolongs elevated level of cerebral glutamic acid and a transient increase in GABA level, potentially aiding learning processes",
+      "Hersaponin: Cardiovascular and sedative effects, similar to reserpine",
+      "Depletes nor-adrenaline and serotonin (5-HT) in rat brain"
+    ],
+    "research": [
+      "Alcoholic extract (50 mg/kg) produced tranquilizing effect on rats and dogs, weaker than chlorpromazine"
+    ]
+  },
+  "dosage": {
+    "whole_plant": "1–3 g powder (API Vol. II)"
+  },
+  "general_information": {
+    "description": "Bacopa monnieri, commonly known as Brahmi, is a creeping annual herb with a height of 2-3 feet. It is used as an anticancer agent, and to treat anemia, asthma, diuretic conditions, tumors, epilepsy, and snake bites.",
+    "regions": "North and South America, Europe, Australia, southern India, Asia, Africa",
+    "botanical_features": {
+      "flowers": "Whitish or pale blue",
+      "fruit": "Small, oval-shaped",
+      "seeds": "Dark brown, 0.2-0.3mm"
+    }
+  },
+  "cultivation": {
+    "climate": {
+      "temperature": {
+        "sowing": "25-30°C",
+        "harvesting": "20-25°C",
+        "general": "33-40°C"
+      },
+      "rainfall": "650-830 mm"
+    },
+    "soil": "Grows in a variety of soils, including alluvial marshy soil. Can tolerate poor drainage, thrives in acidic conditions.",
+    "popular_varieties": [
+      {
+        "name": "Pragyashakti",
+        "developed_by": "CIMAP, Lucknow",
+        "bacoside_content": "1.8-2%"
+      },
+      {
+        "name": "Subodhak",
+        "developed_by": "CIMAP, Lucknow",
+        "bacoside_content": "1.8-2%"
+      }
+    ]
+  },
+  "land_preparation": {
+    "process": "Ploughing and harrowing for fine tilth, application of FYM @20q/acre during ploughing."
+  },
+  "sowing": {
+    "time": "Mid-June or early July",
+    "spacing": "20 x 20 cm",
+    "method": "Seedlings are transplanted in the main field."
+  },
+  "seed": {
+    "rate": "25,000 cuttings per acre"
+  },
+  "nursery_management": {
+    "process": "Rooted plants are transplanted when seedlings reach 4-5 cm in height. Irrigation is applied immediately after transplanting. Main transplanting period is March to June."
+  },
+  "fertilizer": {
+    "requirements": {
+      "urea": "87 kg/acre",
+      "ssp": "150 kg/acre",
+      "muriate_of_potash": "40 kg/acre"
+    },
+    "nutrients": {
+      "nitrogen": "40 kg/acre",
+      "phosphorus": "24 kg/acre",
+      "potash": "24 kg/acre"
+    },
+    "application_schedule": [
+      "First application 30 days after planting",
+      "Second application at 60-70 days",
+      "Third application at 90 days"
+    ]
+  },
+  "weed_control": {
+    "process": "Hand weeding at 15-20 days after transplanting, second weeding at 2-month intervals."
+  },
+  "irrigation": {
+    "requirements": [
+      "Rainy season crop: Water immediately after rain ends.",
+      "Winter season: Irrigation at 20-day intervals.",
+      "Summer season: Irrigation at 15-day intervals."
+    ]
+  },
+  "plant_protection": {
+    "pests": [
+      {
+        "name": "Grasshopper",
+        "damage": "Feeds on leaves and plant parts.",
+        "control": "Spray Nuvacron @0.2% or Neem-based insecticide."
+      }
+    ]
+  },
+  "harvesting": {
+    "schedule": "5-6 months after transplantation, primarily in October–November. 2-3 harvests per year. Cut upper portion 4-5 cm from the base."
+  },
+  "post_harvest": {
+    "process": "Drying of harvested material in shade, packed in airtight bags. Used to make products such as Brahmighrtam, Sarasvataristam, Brahmitailam, Memory Plus, Megamind Plus."
+  }
+},
+{
+  "id":"Castor",
+  "plant_name": "Castor (Ricinus communis)",
+  "family": "Euphorbiaceae",
+  "habitat": "Cultivated chiefly in Andhra Pradesh, Maharashtra, Karnataka, and Orissa.",
+  "common_names": {
+    "english": "Castor seed",
+    "ayurvedic": "Eranda, Chitrabija, Triputi, Tribija, Vaataari, Chanchu, Manda, Uruvaka, Gandharva-hastaa, Panchaangula, Vardhamaana, Uttaanpatraka, Vyaaghrapuchha, Chitraa",
+    "unani": "Bedanjeer, Arand",
+    "siddha_tamil": "Ammanakku"
+  },
+  "actions": {
+    "oil": "Purgative, used in dermatosis and eczema",
+    "leaves": "Poultice used to extract worms",
+    "root": "Decoction used for lumbago and similar complaints",
+    "bark": "Purgative"
+  },
+  "key_applications": "The Ayurvedic Pharmacopoeia recommends the root decoction for rheumatism, bladder pain, lumbago, abdominal diseases, and inflammation. Fresh leaf for helminthiasis, dysuria, arthritis, and abscesses. Dried seed powder for constipation, liver and spleen diseases, piles, sciatica, and rheumatism.",
+  "phytochemistry": {
+    "toxins": [
+      "Ricin (2.8-3.0% in whole seed, about 10% in seed flour)",
+      "Allergens",
+      "Ricinine (a feebly toxic alkaloid)"
+    ],
+    "other_components": [
+      "Ricinoleic acid (main component of castor oil)",
+      "Stearic, oleic, linoleic, and dihydroxystearic acids"
+    ]
+  },
+  "pharmacology": {
+    "effects": [
+      "Root extract shows anti-inflammatory activity against various irritants in rat hind paw oedema",
+      "N-Demethylricinine shows anticholestatic and hepatoprotective effects in rats"
+    ],
+    "castor_oil": {
+      "properties": "A well-known purgative",
+      "dose": "5-20 ml"
+    },
+    "toxicity": {
+      "ricin": "Highly toxic albumin in the seeds, agglutinizes mammalian red blood cells, toxicity reduced by potassium permanganate treatment."
+    }
+  },
+  "dosage": {
+    "root": "20-30 g for decoction (API, Vol. I)",
+    "leaf": "10-20 ml juice; 2-5 g powder",
+    "seed": "0.5-3 g powder (API, Vol. III)"
+  },
+  "cultivation": {
+    "land_preparation": {
+      "ploughing": "Plough 2-3 times with a country or mouldboard plough.",
+      "organic_manure": "Apply 12.5 t/ha of FYM or compost, mix into soil during last ploughing. Apply 30 kg sulphur/ha through gypsum for higher yields."
+    },
+    "seed_rate": {
+      "varieties": "10 kg/ha",
+      "hybrids": "5 kg/ha"
+    },
+    "spacing": {
+      "rainfed_varieties": "90 cm x 60 cm",
+      "rainfed_hybrids": "120 cm x 90 cm",
+      "irrigated_varieties": "90 cm x 90 cm",
+      "irrigated_hybrids": "150 cm x 120 cm",
+      "clay_soils": "150 x 150 cm for hybrids in irrigated conditions"
+    }
+  },
+  "fertilizer_application": {
+    "rainfed": {
+      "varieties": "45:15:15 NPK kg/ha",
+      "hybrids": "60:30:30 NPK kg/ha"
+    },
+    "irrigated": {
+      "varieties": "60:30:30 NPK kg/ha",
+      "hybrids": "90:45:45 NPK kg/ha"
+    },
+    "zinc": "12.5 kg ZnSO4/ha if soil Zn < 1.2 ppm",
+    "iron": "25 kg FeSO4/ha for low Fe soils"
+  },
+  "seed_treatment": {
+    "carbendazim": "Treat seeds with 2 g/kg",
+    "soaking": "Soak seeds in water for 20 hours",
+    "priming": "In rainfed areas, prime seeds with 1% KCl for 3 hours before sowing."
+  },
+  "sowing": {
+    "depth": "4-6 cm",
+    "method": "Place one seed per hole at the recommended spacing."
+  },
+  "gap_filling": {
+    "method": "Gap filling on the 15th day after sowing, followed by thinning to leave one healthy plant."
+  },
+  "weed_management": {
+    "herbicides": [
+      "Pendimethalin @ 3 lit/ha",
+      "Fluchloralin @ 2 lit/ha"
+    ],
+    "hand_weeding": "Twice, at 20 and 40 days after sowing (DAS)"
+  },
+  "intercropping": {
+    "rainfed": [
+      "Castor + groundnut (6:1 ratio)",
+      "Blackgram + castor (6:1 ratio)",
+      "Castor + blackgram or greengram (1:2 ratio)"
+    ],
+    "irrigated": "Castor + onion (1:2 ratio, 1.5 m x 1.0 m spacing)"
+  },
+  "harvesting": {
+    "schedule": "Harvest when capsules begin to dry, typically after the average duration of the variety.",
+    "process": "Cut matured racemes, dry in the sun, shell the seeds using a castor sheller or beat with wooden planks."
+  },
+  "post_harvest": {
+    "process": "Separate seeds from dried capsules by winnowing."
+  }
+},
+{
+  "id":"Curry_Leaf",
+  "plant_name": "Murraya koenigii (Linn.) Spreng.",
+  "family": "Rutaceae",
+  "habitat": "Cultivated in Tamil Nadu, Maharashtra, and North India.",
+  "common_names": {
+    "english": "Curry-Leaf tree",
+    "ayurvedic": "Surabhini-nimba",
+    "unani": "Karipattaa",
+    "siddha_tamil": "Karuveppilei, Karivempu, Kattuveppilei",
+    "folk": "Mithaa Neem, Kathneem, Gandhela, Barsanga"
+  },
+  "actions": {
+    "leaf": "Stomachic, antiprotozoal, spasmolytic; promotes appetite and digestion, destroys pathogenic organisms, antidysenteric. Used externally for skin eruptions."
+  },
+  "phytochemistry": {
+    "carbazole_alkaloids": "All parts, especially leaves, are rich in carbazole alkaloids. Several carbazole bases have been isolated.",
+    "coumarin": "Leaves gave a coumarin glucoside, scopolin.",
+    "beta_carotene": "Beta-carotene content decreases on cooking, with maximum loss during deep frying.",
+    "other_effects": "Curry leaves reduce blood glucose levels in diabetic patients without producing an insulin response.",
+    "steam_distillate": "Exhibits antifungal and insecticidal activities.",
+    "stem_bark": "Ethanolic extract shows anti-inflammatory effect in carrageenan-induced inflammation in rats."
+  },
+  "cultivation": {
+    "soil": "Red sandy loam soils with good drainage are ideal.",
+    "temperature": "Optimum temperature range is 26° to 37°C."
+  },
+  "season_of_sowing": {
+    "availability": "Main season for curry leaf fruit availability is July – August.",
+    "sowing": "Seeds should be pulped and sown in nursery beds or poly bags within 3-4 days of collection.",
+    "seedling": "One-year-old seedlings are suitable for planting."
+  },
+  "field_preparation": {
+    "ploughing": "Field is ploughed 3-4 times for a fine tilth. Well decomposed FYM is applied @ 20 t/ha before last ploughing.",
+    "pit_size": "Pits of 30 x 30 x 30 cm are dug 1-2 months before planting at a spacing of 1.2 to 1.5 m."
+  },
+  "irrigation": {
+    "initial": "Irrigate immediately after planting, followed by irrigation on the third day, then once a week."
+  },
+  "fertilizer_application": {
+    "fym": "Apply 20 kg of FYM/plant after each harvest and mix with soil."
+  },
+  "inter_cultivation": {
+    "hoeing": "Periodical hoeing is needed. In the first year, intercrop like pulses can be grown.",
+    "branching": "After the plant reaches 1 m height, the terminal bud is cut to encourage basal branching, maintaining 5-6 branches per bush."
+  },
+  "plant_protection": {
+    "pests": {
+      "citrus_butterfly": {
+        "control": "Hand picking and destruction of larvae, spray Malathian @ 1 ml/lit."
+      },
+      "psyllid_bug_and_scale": {
+        "control": "Spray Dimethoate @ 1 ml/lit."
+      }
+    },
+    "diseases": {
+      "leaf_spot": {
+        "control": "Spray Carbendazim @ 1 g/lit. Avoid spraying sulfur compounds."
+      }
+    }
+  },
+  "harvest_and_yield": {
+    "first_year": "250-400 kg/ha of leaves.",
+    "second_year": "Harvest every 4 months, yielding 1800 kg/ha each time, or 5400 kg/ha per year.",
+    "third_year": "Yield of 5400 kg/ha per year.",
+    "fourth_year": "2500 kg/ha every 3 months, or 10,000 kg/ha per year.",
+    "fifth_year_onwards": "5000 kg/ha every 3 months, or 20,000 kg/ha per year."
+  }
+},
+{
+  "id":"Doddapatre",
+  "plant_name": "Coleus amboinicus Lour.",
+  "synonym": "C. aromaticus Benth.",
+  "family": "Lamiaceae",
+  "habitat": "Native to Indonesia.",
+  "common_names": {
+    "english": "Indian Borage",
+    "ayurvedic": "Parna-yavaani",
+    "siddha_tamil": "Karpoorvalli, Doddapatre",
+    "folk": [
+      "Pattaa Ajawaayin",
+      "Pattharachuur (Bengal)"
+    ]
+  },
+  "actions": {
+    "leaf": [
+      "Used in urinary diseases, vaginal discharge, colic, and dyspepsia.",
+      "Stimulates liver function.",
+      "Given in epilepsy and other convulsive affections.",
+      "Used for asthma, bronchitis, cold, and chronic cough.",
+      "Bruised leaves applied to burns; leaf juice used for chapped lips."
+    ]
+  },
+  "phytochemistry": {
+    "calcium_oxalate_stones": "Leaf extract shown to regulate calcium oxalate stone formation in experimental rats.",
+    "folk_medicine": "Leaves used internally to expel kidney stones (known as Paashaanbhedi).",
+    "homoeopathy": "Prepared from fresh leaves for urinary organ affections, especially in difficult urination or burning pains.",
+    "essential_oil": {
+      "source": "Aerial parts from Pakistan yield 0.1% essential oil containing 79.6% thymol.",
+      "fijian_sample": "Fijian leaves contain carvacrol and camphor as major constituents."
+    },
+    "other_constituents": [
+      "Oxalacetic acid",
+      "Flavonoids",
+      "Cirsimaritin",
+      "Beta-sitosterol"
+    ]
+  },
+  "dosage": {
+    "leaf_juice": "5–10 ml."
+  }
+},
+{
+  "id":"Ekka",
+  "plant_name": "Calotropis gigantea (Linn.) R.Br. ex. Ait.",
+  "family": "Asclepiadaceae",
+  "habitat": "Throughout India.",
+  "common_names": {
+    "english": [
+      "Madar (white-flowered)",
+      "Giant Milk-weed"
+    ],
+    "ayurvedic": [
+      "Alarka",
+      "Raajaarka",
+      "Shvetaarka",
+      "Vasuka",
+      "Mandaar",
+      "Bhaasvanmuula",
+      "Dinesh",
+      "Prabhaakara",
+      "Ravi",
+      "Bhaanu",
+      "Tapana"
+    ],
+    "unani": "Madaar, Aak",
+    "siddha_tamil": "Erukku"
+  },
+  "actions": {
+    "flowers": [
+      "Stomachic",
+      "Bechic",
+      "Antiasthmatic"
+    ],
+    "milky_juice": [
+      "Purgative (gastrointestinal irritant)"
+    ],
+    "roots": [
+      "Used in lupus, tuberculous leprosy, syphilitic ulceration"
+    ],
+    "leaves": [
+      "Juice poisonous",
+      "Used in external swellings"
+    ],
+    "all_parts": [
+      "Used against bronchitis and asthma"
+    ]
+  },
+  "phytochemistry": {
+    "leaf_extract": {
+      "activity": "Antitussive activity due to alkaloids and glycosides."
+    },
+    "root": {
+      "glycosides_content": "0.60–1.42% on dry basis"
+    },
+    "latex": "Contains akudarin.",
+    "flowers": [
+      "Beta-amyrin",
+      "Stigmasterol"
+    ]
+  },
+  "dosage": {
+    "milky_juice": "500 mg",
+    "leaf_flower_root_bark": "3–5 g powder"
+  }
+},
+{
+  "id":"Guava",
+  "plant_name": "Feijoa sellowiana Berg.",
+  "synonym": "Acca sellowiana Berg.",
+  "family": "Myrtaceae",
+  "habitat": {
+    "native": [
+      "Western Paraguay",
+      "Southern Brazil",
+      "Uruguay",
+      "Parts of Argentina"
+    ],
+    "cultivated": [
+      "South India",
+      "Nilgiris",
+      "Kodaikanal hills"
+    ]
+  },
+  "common_names": [
+    "Feijoa",
+    "Pineapple Guava",
+    "New Zealand Banana"
+  ],
+  "action": {
+    "nutritional_content": {
+      "iodine": {
+        "range": "1.64–3.9 mg/kg",
+        "note": "Varies according to locality and fluctuates from year to year"
+      },
+      "vitamin_C": "Present",
+      "vitamin_P": "Active polyphenols"
+    },
+    "health_benefits": [
+      "Beneficial in mild cases of thyrotoxicosis",
+      "Excellent source of dietary fiber",
+      "High concentration of antioxidants",
+      "Aids healthy bowel movements and prevents constipation",
+      "Provides 12% of recommended daily intake of fiber"
+    ]
+  },
+  "additional_benefits": [
+    "Immunity Booster",
+    "Lowers Risk of Cancer",
+    "Diabetes-Friendly",
+    "Heart Healthy",
+    "Treats Constipation",
+    "Improves Eyesight",
+    "Beats Toothache",
+    "Stress-Buster",
+    "Good for Your Brain",
+    "Weight Loss",
+    "Improves Complexion",
+    "Cough and Cold"
+  ]
+},
+{
+  "id":"Henna",
+  "plant_name": "Lawsonia inermis Linn.",
+  "family": "Lythraceae",
+  "habitat": {
+    "native": [
+      "Arabia",
+      "Persia"
+    ],
+    "cultivated": [
+      "Haryana",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Rajasthan"
+    ]
+  },
+  "common_names": [
+    "Henna"
+  ],
+  "action": {
+    "leaves": [
+      "astringent",
+      "antihaemorrhagic",
+      "antispasmodic",
+      "oxytocic",
+      "antifertility",
+      "antifungal",
+      "antibacterial"
+    ],
+    "external_use": [
+      "treat skin infections (tinea)",
+      "hair conditioner"
+    ],
+    "ayurvedic_indications": [
+      "dysuria",
+      "jaundice",
+      "bleeding disorders",
+      "ulcers",
+      "prurigo",
+      "obstinate skin diseases",
+      "giddiness",
+      "vertigo"
+    ],
+    "active_compounds": [
+      "naphthoquinones (lawsone)",
+      "coumarins (laxanthone I, II, and III)",
+      "flavonoids (luteolin, acacetin-7-O-glucoside)",
+      "beta-sitosterol-3-O-glucoside",
+      "tannins"
+    ],
+    "antibacterial_activity": [
+      {
+        "extracts": [
+          "chloroform",
+          "ethanol"
+        ],
+        "target_bacteria": [
+          "Shigella",
+          "Vibrio cholerae"
+        ]
+      }
+    ],
+    "antifungal_activity": "against several pathogenic bacteria and fungi",
+    "medicinal_use": {
+      "henna_paint": "used for mycosis treatment",
+      "antimycotic_activity": "due to lawsone (naphthoquinone)"
+    },
+    "hepatoprotective_activity": {
+      "extract": "ethanol-water (1:1) extract of stem bark",
+      "condition": "CCl₄-induced liver toxicity"
+    },
+    "anti_inflammatory_activity": {
+      "parts": [
+        "stem bark",
+        "root"
+      ],
+      "active_compounds": [
+        "isoplumbagin",
+        "lawsaritol"
+      ]
+    },
+    "sickle_cell_anemia": "may decrease formation of sickled cells"
+  },
+  "dosage": {
+    "leaves": "5–10 ml juice",
+    "reference": "API, Vol. IV"
+  }
+},
+{
+  "id":"Hibiscus",
+  "crop_name": "Mesta",
+  "season": {
+    "sowing": "Kharif (May-June)",
+    "harvesting": "50% flowering stage"
+  },
+  "varieties": {
+    "Hibiscus_sabdariffa": [
+      "AMV 1",
+      "AMV 2",
+      "AMV 3",
+      "HS 4288",
+      "HS 7910",
+      "AMV 7"
+    ],
+    "Hibiscus_cannabinus": [
+      "HC 583",
+      "MT 150 (Nirmal)",
+      "JRM-3 (Sneha)",
+      "JRM-5 (Shrestha)"
+    ]
+  },
+  "fertilizer_requirements": {
+    "urea": "36 kg/acre",
+    "ssp": "50 kg/acre",
+    "mop": "14 kg/acre"
+  },
+  "nutrient_requirements": {
+    "nitrogen": "16 kg/acre",
+    "phosphorus": "8 kg/acre",
+    "potash": "8 kg/acre"
+  },
+  "pests_and_diseases": {
+    "pests": [
+      {
+        "name": "Aphid",
+        "control_methods": [
+          "Dimethoate @ 2ml/L",
+          "Imidacloprid @ 0.25ml/L",
+          "Thiamethoxam @ 0.2g/L",
+          "Acetamiprid @ 0.2g/L"
+        ]
+      },
+      {
+        "name": "Green Semi Looper",
+        "control_methods": [
+          "Thiodicarb @ 1g/L",
+          "Indoxacarb @ 1ml/L"
+        ]
+      },
+      {
+        "name": "Mealy Bug",
+        "control_methods": [
+          "Neem oil @ 5ml/L (low infestation)",
+          "Profenophos @ 2ml/L (high infestation)",
+          "Triazophos @ 2ml/L (high infestation)"
+        ]
+      },
+      {
+        "name": "Jassid",
+        "control_methods": [
+          "Imidacloprid @ 0.25ml/L",
+          "Thiamethoxam @ 0.2g/L"
+        ]
+      }
+    ],
+    "diseases": [
+      {
+        "name": "Foot and Stem Rot",
+        "control_methods": [
+          "Proper drainage",
+          "Mancozeb @ 3g/kg (seed treatment)",
+          "Ridomil @ 2g/L (if infestation observed)"
+        ]
+      },
+      {
+        "name": "Leaf Blight",
+        "control_methods": [
+          "Mancozeb @ 3g/L",
+          "Copper Oxychloride @ 3g/L"
+        ]
+      },
+      {
+        "name": "Yellow Vein Mosaic Virus",
+        "control_methods": [
+          "Thiamethoxam @ 0.1g/L (50 days after sowing)",
+          "Imidacloprid @ 0.25ml/L (50 days after sowing)"
+        ]
+      }
+    ]
+  },
+  "general_information": {
+    "description": "Mesta is an herbaceous annual plant, an important commercial crop after cotton and jute, with origins in Afro-Asian countries. It is used for fiber production.",
+    "species": [
+      "Hibiscus cannabinus",
+      "Hibiscus sabdariffa"
+    ],
+    "growing_states": [
+      "Maharashtra",
+      "Andhra Pradesh",
+      "West Bengal",
+      "Bihar",
+      "Orissa",
+      "Meghalaya",
+      "Karnataka",
+      "Tripura"
+    ]
+  },
+  "climate_requirements": {
+    "temperature": {
+      "growing": "25°C - 35°C",
+      "sowing": "25°C - 28°C",
+      "harvesting": "20°C - 25°C"
+    },
+    "rainfall": "60-90 cm",
+    "soil": {
+      "type": "Rich loamy soil",
+      "pH": "4.5 - 7.8",
+      "unsuitable_conditions": [
+        "Acidic soils",
+        "Waterlogging"
+      ]
+    }
+  },
+  "land_preparation": {
+    "description": "Plough land thoroughly before monsoon to bring soil to fine tilth. After ploughing, make soil weed and stubble-free, and level the soil properly.",
+    "organic_matter": "Add 2-4 ton/acre of well decomposed cowdung at the time of field preparation."
+  },
+  "sowing_information": {
+    "optimal_time": "May - June",
+    "spacing": "30 cm x 10 cm",
+    "sowing_depth": "2.5 to 3 cm",
+    "method": "Broadcasting method is generally followed, but line sowing is also beneficial."
+  },
+  "seed_information": {
+    "seed_rate": {
+      "H_sabdariffa": "6 kg/acre",
+      "H_cannabinus": "5 kg/acre"
+    },
+    "seed_treatment": "Treat seed with Mancozeb @ 3gm/kg of seeds before sowing."
+  },
+  "weed_control": {
+    "description": "Weed and thinning operations to keep the field clean and weed-free.",
+    "first_weeding": "21st day after sowing",
+    "second_weeding": "35th day after sowing",
+    "chemical_control": [
+      "Fluchloralin @ 800ml/acre (2-3 days before sowing)",
+      "Butachlor @ 1200ml/acre (immediately after sowing)",
+      "Pendimethalin @ 1-1.25ltr/acre (immediately after sowing)"
+    ]
+  },
+  "irrigation": {
+    "description": "It is a rainfed crop, so it doesn't require irrigation, but may need it depending on weather conditions and soil type."
+  },
+  "harvesting": {
+    "description": "Harvest at the proper stage; early harvesting reduces fiber yield, while delay deteriorates fiber quality.",
+    "recommended_time": "When crop is at 50% flowering stage.",
+    "method": "Cut crop close to the ground."
+  },
+  "post_harvest": {
+    "description": "After harvesting, grade based on stem size. Tie them in bundles and keep these bundles in the field for shredding of leaves."
+  }
+},
+{
+  "id":"Honge",
+  "plant_name": "Derris indica",
+  "synonym": "Pongamia pinnata",
+  "family": "Fabaceae",
+  "habitat": {
+    "native": "Western Ghats",
+    "distribution": "Found all over India on the banks of rivers and streams"
+  },
+  "common_names": {
+    "english": ["Indian Beech", "Pongamia oil tree"],
+    "ayurvedic": ["Naktmaal", "Guchpushpak", "Ghritpuur", "Udkirya", "Karanja"],
+    "siddha": "Pungu"
+  },
+  "uses": {
+    "general": "Used for various skin diseases including eczema, scabies, leprosy, and for ulcers, tumors, piles, enlargement of spleen, and vaginal and urinary discharges.",
+    "root": "Juice of root used for closing fistulous sores and cleaning foul ulcers.",
+    "flowers": "Used in diabetes treatment.",
+    "seeds": "Powder of seeds used for whooping and irritating coughs of children.",
+    "seed_oil": "Used in cutaneous affections, herpes, and scabies."
+  },
+  "chemical_composition": {
+    "flavonoids": [
+      "simple flavones",
+      "furanoflavonoids",
+      "chromenoflavones",
+      "chromenochalcones",
+      "coumarones",
+      "flavone glucosides"
+    ],
+    "others": [
+      "sterols",
+      "triterpenes",
+      "modified phenylalanine dipeptide"
+    ]
+  },
+  "essential_oil_properties": {
+    "antibacterial": true,
+    "antifungal": true
+  },
+  "dosage": {
+    "bark": "50–100 ml decoction",
+    "leaf": "Dosage not specified"
+  }
+},
+{
+  "id":"Insulin",
+  "plant_name": "Saussurea lappa",
+  "synonym": "S. costus",
+  "family": "Asteraceae",
+  "habitat": {
+    "native": ["Kashmir", "Himachal Pradesh", "Garhwal"],
+    "altitude": "2500–3000 m",
+    "cultivated_in": "Kashmir and neighboring regions"
+  },
+  "common_names": {
+    "english": ["Kuth", "Costus","Insulin"],
+    "ayurvedic": [
+      "Kushtha",
+      "Kusht",
+      "Vaapya",
+      "Kaashmira",
+      "Gada",
+      "Rug",
+      "Ruk",
+      "Aamaya",
+      "Paalaka"
+    ],
+    "unani": "Qust",
+    "siddha": "Kostum",
+    "folk": "Sugandha-Kuutth"
+  },
+  "uses": {
+    "root": [
+      "antispasmodic",
+      "expectorant",
+      "carminative",
+      "astringent",
+      "antiseptic"
+    ],
+    "indications": [
+      "dyspepsia",
+      "asthma",
+      "cough",
+      "chronic rheumatism",
+      "skin diseases"
+    ],
+    "external_application": "Applied locally to wounds and ulcerations",
+    "scalp": "Powdered root mixed with mustard oil for prurigo"
+  },
+  "ayurvedic_pharmacopoeia": {
+    "recommendations": [
+      "cough",
+      "bronchitis",
+      "dyspnoea",
+      "erysipelas",
+      "gout"
+    ]
+  },
+  "chemical_composition": {
+    "key_compounds": [
+      "essential oil",
+      "alkaloid (saussurine)",
+      "resinoids (6%)",
+      "essential oil (1.5%)",
+      "alkaloid (0.05%)",
+      "inulin (18%)",
+      "saussurea lactone (20-25%)"
+    ],
+    "root_variations": {
+      "punjab": [
+        "costunolide",
+        "dehydrocostuslactone",
+        "costic acid",
+        "palmitic acid",
+        "linoleic acid",
+        "beta-sitosterol",
+        "alpha-cyclocostunolide"
+      ],
+      "kashmir": [
+        "alantolactone",
+        "beta-cyclocostunolide",
+        "iso-alantolactone"
+      ]
+    }
+  },
+  "actions": {
+    "respiratory": "Expectorant action, relieves bronchial relaxation comparable to conventional bronchodilators",
+    "gastrointestinal": "Inhibits peristaltic movement, exhibits diuretic effect",
+    "antiulcer": "Saussureamines A, B, and C show antiulcer effects",
+    "antiseptic": "Strong antiseptic and disinfectant activity against Streptococcus and Staphylococcus"
+  },
+  "dosage": {
+    "root": "0.2–1.0 g powder"
+  }
+}
+  ]
+}
