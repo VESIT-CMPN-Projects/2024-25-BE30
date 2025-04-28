@@ -17,8 +17,8 @@ MedLeaf is a user-friendly UI designed for healthcare and medicinal plant resear
 
 Clone the repository:
 ```sh
-git clone https://github.com/sanikaahadap/MedLeaf.git
-cd MedLeaf
+git clone https://github.com/sanikaahadap/2024-25-BE30.git
+cd 2024-25-BE30
 ```
 
 Install dependencies:
