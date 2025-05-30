@@ -13,27 +13,9 @@ MedLeaf is a user-friendly UI designed for healthcare and medicinal plant resear
 - **Backend**: Python Flask 
 - **AI/ML**: NLP for database processing
 
-## 📦 Installation
-
-Clone the repository:
-```sh
-git clone https://github.com/sanikaahadap/2024-25-BE30.git
-cd 2024-25-BE30
-```
-
-Install dependencies:
-```sh
-npm install   # or yarn install
-```
-
-Run the project:
-```sh
-npm start  # or yarn start
-```
-
 ## 📌 Usage
 1. Open the application and navigate through the UI.
-2. Upload plant images for identification.
+2. Upload or scan plant images for identification.
 3. Explore extracted medicinal properties and related pharmaceutical applications.
 
 ## 🤝 Contributing
